@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 # Education  
-## Master of Statistics (Biostatistics) *Expected: December 2020*  
-    North Carolina State University  
-## Bachelor of Arts (English) *December 2014*  
-    University of North Carolina at Greensboro  
+## Master of Statistics (Biostatistics)  
+North Carolina State University *Expected: December 2020*  
+
+## Bachelor of Arts (English)  
+University of North Carolina at Greensboro *December 2014*  
 
 # Professional Experience  
 ## Research Associate - North Carolina A&T State University *June 2015 - September 2017*  

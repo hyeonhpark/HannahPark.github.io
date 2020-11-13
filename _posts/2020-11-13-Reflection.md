@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science
+title: Reflection
 ---
 
 For this blog post, I am to go back and read the the previous blog posts I wrote on data science and usign R, and write a reflection about:  
